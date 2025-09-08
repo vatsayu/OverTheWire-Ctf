@@ -39,7 +39,7 @@ This repo contains my writeups and solutions for various OverTheWire wargames, i
 
 ## My Approach to Writeups
 
-I’ve tried to make these writeups as human-readable as possible. Here’s what you can expect:
+ Here’s what you can expect:
 
 - **Clear Explanations**: I explain *why* something works, not just *what* to do. Expect some Linux basics, command breakdowns, and occasional rants about how long it took me to figure something out.
 - **Real Talk**: I’ve included my thought process, including the dead ends and mistakes I made. Learning from failures is half the fun!
@@ -66,4 +66,4 @@ These challenges are meant to be a learning experience, so please don’t just c
 
 ## Contact
 
-If you have questions, want to geek out about CTFs, or need a hint, feel free to reach out via GitHub issues or find me on [insert your preferred platform, e.g., X, Discord, etc.]. Happy hacking, and have fun storming the castle!
+If you have questions, want to geek out about CTFs, or need a hint, feel free to reach out via GitHub issues or find me on https://github.com/vatsayu. Happy hacking, and have fun storming the castle!
